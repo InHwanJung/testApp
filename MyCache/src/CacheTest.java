@@ -39,6 +39,7 @@ public class CacheTest {
 			 			 
 		}catch(Exception e){
 			e.printStackTrace();
+			System.out.println("GiT Update Test");
 		}
 		
 	}
